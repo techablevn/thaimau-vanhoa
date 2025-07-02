@@ -87,3 +87,15 @@
     padding: 0 !important;
   }
 }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .cid-tJS6tZXiPa .navbar-nav .nav-item .nav-link {
+    padding: 6.5px !important;
+  }
+}
+
+@media (min-width: 1025px) and (max-width: 1200px) {
+  .cid-tJS6tZXiPa .navbar-nav .nav-item .nav-link {
+    padding: 12px !important;
+  }
+}
